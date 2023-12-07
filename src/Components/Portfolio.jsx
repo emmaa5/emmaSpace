@@ -31,27 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Markdown Previewer",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Markdown previewer created for the front end frameworks freecodecamp course, using React and sass.",
+    url: "https://codepen.io/e2ma/pen/xxaOLvw",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Java travel booking system",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Terminal program created for an OOP college course together with my classmates. I mostly worked on the menu and troubleshooting",
+    url: "https://github.com/emmaa5/viagens",
   },
   {
-    title: "My Resume Site",
+    title: "Queue data structure in Java",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "For this project it was required to read a txt file and feed into a queue and display it in the terminal.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
