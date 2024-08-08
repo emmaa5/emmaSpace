@@ -5,17 +5,6 @@
  */
 
 import React from "react";
-
-/**
- * About background image
- *
- * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
- * represents what you see in that image.
- *
- * Need an image? Check out https://unsplash.com to download a image you
- * freely use on your site.
- */
 import image from "../images/spring-2854205_1920.jpg";
 
 const imageAltText = "purple and blue abstract background";
@@ -24,7 +13,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Computer Engeneering student studying at UNINASSAU. I enjoy creating projects for people, centered on the end-user's needs.";
+  "I'm a Computer Engineering student studying at UNINASSAU. I enjoy creating projects for people, centered on the end-user's needs.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,7 +27,7 @@ const skillsList = ["HTML/CSS", "JavaScript", "React", "Java"];
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about addressing the needs of the end-user, aiming for an accessible and humane design. Either by contributing with reasearch or developing new products, I look for opportunities to make the world a better place for everyone.";
+  "I am passionate about addressing the needs of the end-user, aiming for an accessible and humane design. Either by contributing with research or developing new products, I look for opportunities to make the world a better place for everyone.";
 
 const About = () => {
   return (
