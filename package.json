@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://emmaa5.github.io/emmaSpace",
+  "homepage": "https://{emmaa5.github.io}/{emmaSpace}",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://emmaa5.github.io/emmaSpace'",
+    "build-gh": "parcel build --public-url 'https://{emmaa5}.github.io/{emmaSpace}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
