@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Emma Lopes",
-  title: "Computer Engeneering student",
+  title: "Computer Engineering student",
   email: "emma.pju@zohomail.eu",
   gitHub: "https://github.com/emmaa5",
   linkedIn: "https://www.linkedin.com/emmaa7/",
