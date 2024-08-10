@@ -28,11 +28,7 @@ const siteProps = {
   title: "Computer Engeneering student",
   email: "emma.pju@zohomail.eu",
   gitHub: "https://github.com/emmaa5",
-  instagram: "",
   linkedIn: "https://www.linkedin.com/emmaa7/",
-  medium: "",
-  twitter: "",
-  youTube: "",
 };
 
 const primaryColor = "#4E567E";

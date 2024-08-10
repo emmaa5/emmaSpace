@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "emmaspace",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Portfolio website for Emma",
   "source": "src/index.html",
   "homepage": "https://emmaa5.github.io/emmaSpace",
   "scripts": {
